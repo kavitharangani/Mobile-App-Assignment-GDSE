@@ -9,5 +9,12 @@ Mobile App Assignment
 
 
 
+![Screenshot 2024-07-14 194902](https://github.com/user-attachments/assets/559a0165-f359-4124-8c93-6bdaf76fa895)
+
+
+
+
 ![WhatsApp Image 2024-07-11 at 11 25 53](https://github.com/kavitharangani/Mobile-App-Assignment-GDSE/assets/125631928/55fd9fdf-93bf-43cf-a9f2-7c1832d65269)
+
+
 
