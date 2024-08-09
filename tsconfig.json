@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/components/coffeeCard.js", "app/Details.tsx", "app/Home.tsx", "app/App.tsx", "app/databases/item.tsx"  ]
 }
